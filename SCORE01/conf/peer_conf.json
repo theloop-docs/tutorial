@@ -1,0 +1,4 @@
+{
+  "LOOPCHAIN_DEFAULT_CHANNEL" : "channel1",
+  "DEFAULT_SCORE_BRANCH": "master"
+}

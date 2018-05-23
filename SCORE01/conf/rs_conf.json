@@ -1,0 +1,5 @@
+{
+  "CHANNEL_MANAGE_DATA_PATH" : "/conf/channel_manage_data.json",
+  "LOOPCHAIN_DEFAULT_CHANNEL" : "channel1",
+  "ENABLE_CHANNEL_AUTH": false
+}
